@@ -7,9 +7,10 @@
     2x2=4 > 4x2=8 > 8x2=16 > 16x2=32 > 32x2=64 | por fim (1x64) e (1x2⁶) resulta em 64 se for (0x64=0)
 ```
 
-**Formula EX:** 7x8¹ o resultado é 56 por que 8 umas vez
+**Formula EX:** 7x8¹ o resultado é 56 por que 8 umas vez logicamente sendo 7x8=56
 
-**Formula EX:** 12x16² o resultado é 3072 por que 16 x 16 = 256 (12x256) = 3072
+**Formula EX:** 12x16² o resultado é 3072 por que 16 x 16 = 256 e (12x256) = 3072
+
 
 
 
